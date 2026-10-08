@@ -1,7 +1,7 @@
 # Financial KPI Monitoring & Profitability Dashboard
 
 ## Project Overview
-A Power BI dashboard developed to monitor financial KPIs, profitability, revenue performance, budget variance, and business performance for FY2024.
+A Power BI dashboard developed to monitor financial KPIs, profitability, revenue performance, budget variance, and business performance.
 
 ## Objectives
 - Monitor key financial KPIs
